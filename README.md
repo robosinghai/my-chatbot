@@ -20,6 +20,6 @@ This is simple, go to platform.openai.com/account/api-keys, then click the 'Crea
 
 `pip install openai`
 
-`git clone https://`
+`[git clone https://](https://github.com/robosinghai/my-chatbot.git)`
 
 Note: You can change the name of the bot in the code and add personality prompts by changing the role and content settings. Finally, you can turn the 'temperature' setting up (range between 0 to 1), that controls the randomness of a response. The higher the number, the more random response you get from the model.
